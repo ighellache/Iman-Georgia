@@ -11,6 +11,7 @@ function getMarvelResponse() {
   // the api deals a lot in ids rather than just the strings you want to use
   var characterId = '1009718'; // wolverine                                                                             
 
+  //made a change
 
   var url = 'http://gateway.marvel.com:80/v1/public/comics';
 
